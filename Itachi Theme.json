@@ -1,0 +1,18 @@
+{
+    "manifest": {
+        "author": "Dark・MD 3.0#4452",
+        "name": "Itachi Theme",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/892691932239761428\/893828092907360316\/Uchiha_Itachi_live_wallpaper.gif",
+        "overlay_alpha": 1,
+        "blur_radius": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": -49741562
+    },
+    "colors": {},
+    "drawable_tints": {}
+}
